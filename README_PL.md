@@ -16,7 +16,7 @@ Również znany jako TheForgottenOne lub tfo
 - 🇬🇧 Angielski — bardzo dobra znajomość w mowie i piśmie
 
 ## 📊 Statystyki GitHub
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=tfo-dot&show_icons=true&hide_rank=true&theme=radical&language=pl)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=tfo-dot&show_icons=true&hide_rank=true&theme=radical&locale=pl)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tfo-dot&layout=compact&theme=radical)
 
 ![Trofea](https://github-profile-trophy.vercel.app/?username=tfo-dot&theme=radical&margin-w=15&no-frame=true)
