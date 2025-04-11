@@ -17,7 +17,7 @@ AKA TheForgottenOne or tfo for short!
 - 🇬🇧 English — fluent (very good command in both spoken and written form)
 
 ## 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=tfo-dot&show_icons=true&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=tfo-dot&show_icons=true&hide_rank=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tfo-dot&layout=compact&theme=radical)
 
 ![Trophies](https://github-profile-trophy.vercel.app/?username=tfo-dot&theme=radical&margin-w=15&no-frame=true)
