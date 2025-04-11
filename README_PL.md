@@ -1,4 +1,4 @@
-# Cześć, jestem tfo-dot! 👋
+# Cześć, jestem Radosław! 👋
 Również znany jako TheForgottenOne lub tfo
 
 ![Witaj](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&color=F75C7E&width=435&lines=Czasem+coś+zrobię;Fan+Backendu+%F0%9F%92%BB;Wielbiciel+czystego+kodu+%F0%9F%94%A7)
