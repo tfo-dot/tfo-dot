@@ -29,8 +29,8 @@ AKA TheForgottenOne or tfo for short!
 
 ## 🎯 2025 Goals
 - 🤝 Get more involved in open-source projects
-- ⚡ Explore Zig and build something cool with it
-- 🎮 Make a simple rougelike game
+- ⚙️ Learn more about cybersecurity by reverse enginnering
+- 🤖 Create my own AI for learning
 - ✍️ Start a dev blog and share what I learn along the way
 
 ## 📂 Projects
