@@ -15,6 +15,11 @@ AKA TheForgottenOne or tfo for short!
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=tfo-dot&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tfo-dot&layout=compact&theme=radical)
 
+## 🌐 Languages
+
+- 🇵🇱 Polish — native speaker
+- 🇬🇧 English — fluent (very good command in both spoken and written form)
+
 ![Trophies](https://github-profile-trophy.vercel.app/?username=tfo-dot&theme=radical&margin-w=15&no-frame=true)
 
 ## 🔧 Technologies & Tools
