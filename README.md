@@ -3,6 +3,8 @@ AKA TheForgottenOne or tfo for short!
 
 ![Welcome](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&color=F75C7E&width=435&lines=I+just+do+stuff+sometimes.;Backend+Enthusiast+%F0%9F%92%BB;Lover+of+clean+code+%F0%9F%94%A7)
 
+🔄 [Wersja po polsku](./README_PL.md)
+
 ## 🚀 About Me
 - 🎯 Passionate about coding and learning new technologies
 - 💻 Interested in backend development and scripting
