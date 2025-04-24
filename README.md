@@ -30,7 +30,7 @@ AKA TheForgottenOne or tfo for short!
 ## 🎯 2025 Goals
 - 🤝 Get more involved in open-source projects
 - ⚙️ Learn more about cybersecurity by creating my own communication protocol
-- 🤖 Create my own Smart Home AI
+- 🤖 Create my own smart home assistant
 - ✍️ Start a dev blog and share what I learn along the way
 
 ## 📂 Projects
