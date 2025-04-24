@@ -28,8 +28,8 @@ Również znany jako TheForgottenOne lub tfo
 
 ## 🎯 Cele na 2025
 - 🤝 Bardziej zaangażować się w projekty open-source
-- ⚙️ Poznać bardziej cyberbezpieczeństwo poprzez inżynierię wsteczną
-- 🤖 Nauczyć się robić SI
+- ⚙️ Poznać bardziej cyberbezpieczeństwo poprzez stworzenie protokołu komunikacyjnego
+- 🤖 Zrobić własnego asystenta smart home
 - ✍️ Założyć bloga związanego z informatyką
 
 ## 📂 Projekty
