@@ -1,57 +1,52 @@
 # Hi there, I'm Radosław 👋
 AKA TheForgottenOne or tfo for short!
 
-![Welcome](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&color=F75C7E&width=435&lines=I+just+do+stuff+sometimes.;Backend+Enthusiast+%F0%9F%92%BB;Lover+of+clean+code+%F0%9F%94%A7)
-
 🔄 [Wersja po polsku](./README_PL.md)
 
 ## 🚀 About Me
-- 🎯 Passionate about coding and learning new technologies
-- 💻 Interested in backend development and scripting
+- 🎯 I love coding and learning
 - 🌍 Based in Wrocław
-- 👥 Community Manager in [Harmony](https://github.com/harmonyland/harmony) — a TypeScript Discord API wrapper
+- 👥 Moderator in [Harmony](https://github.com/harmonyland/harmony) — a TypeScript Discord API wrapper for Deno
+- 📔 I love documentation
+- I translate stuff *sometimes*
 
 ## 🌐 Languages
 
 - 🇵🇱 Polish — native speaker
-- 🇬🇧 English — fluent (very good command in both spoken and written form)
+- 🇬🇧 English — fluent (both speaking and writting)
 
-## 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=tfo-dot&show_icons=true&hide_rank=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tfo-dot&layout=compact&theme=radical)
+## 🔧 (Programming) languages
 
-![Trophies](https://github-profile-trophy.vercel.app/?username=tfo-dot&theme=radical&margin-w=15&no-frame=true)
+- Rust
+- Kotlin
+- Web (JS/TS, CSS, HTML)
+- Python
+- C#
+- Golang
 
-## 🔧 Technologies & Tools
-- **Languages**: Kotlin, JavaScript (Typescript), Python, C#, HTML, Golang
-- **Tools**: Git, Docker, Linux, Sublime Text 3, IntelliJ IDEA
-- **Frameworks**: Node.js, Express, React.JS, Next.JS, deno fresh
-
-## 🎯 2025 Goals
+## 🎯 2026+ Goals
 - 🤝 Get more involved in open-source projects
-- ⚙️ Learn more about cybersecurity by creating my own communication protocol
-- 🤖 Create my own smart home assistant
 - ✍️ Start a dev blog and share what I learn along the way
+- Make some friends (lol)
 
-## 📂 Projects
-### 📖 [ReadMeAManga](https://github.com/tfo-dot/ReadMeAManga)
-A manga reader built in Kotlin using Kotlin Multiplatform.
+## 📂 Stuff I'm proud of
+### 📖 [AMP](https://github.com/amp-dot/amp)
+A local first player created to elevate anime watching experience with extension support!
 
 ### 🧩 [cda-replacer](https://github.com/tfo-dot/cda-replacer)
 A browser extension for Microsoft Edge to help you in CDA.pl watching experience.
 
 ### 🤖 [dwn](https://github.com/tfo-dot/dwn)
-A Discord bot that allows downloading media from various sites and sending them into Discord — including Instagram Reels and YouTube Music.
+A Discord userapp to download media from known sites.
 
-### 🔣 [parts](https://github.com/tfo-dot/parts)
+### 🔣 [parts](https://github.com/tfo-dot/parts-rs)
 A programmable programming language.
 
 ### ⚔️ [sao](https://github.com/tfo-dot/sao)
 A Discord-based RPG game.
 
 ## 📫 Contact Me
-- 💬 Discord: `tfo.`
+- Discord: `tfo.`
+- MangaDex (I upload my own translations there sometimes): `@TheForgorOne`
 
-![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-🚀 Happy coding!
+🚀 If I have no haters, then I'm dead
