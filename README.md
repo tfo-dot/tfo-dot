@@ -30,7 +30,7 @@ AKA TheForgottenOne or tfo for short!
 - Make some friends (lol)
 
 ## 📂 Stuff I'm proud of
-### 📖 [AMP](https://github.com/amp-dot/amp)
+### 📖 [AMP](https://github.com/tfo-dot/amp)
 A local first player created to elevate anime watching experience with extension support!
 
 ### 🧩 [cda-replacer](https://github.com/tfo-dot/cda-replacer)
@@ -44,6 +44,10 @@ A programmable programming language.
 
 ### ⚔️ [sao](https://github.com/tfo-dot/sao)
 A Discord-based RPG game.
+
+### [Tavern](https://github.com/tfo-dot/tavern)
+My very own SillyTavern-like app built on Tauri.
+
 
 ## 📫 Contact Me
 - Discord: `tfo.`
